@@ -14,7 +14,4 @@ WhereIsMyCoffee is an hybrid application made from Ionic, Angular, and SQLite. T
 
 ## Future Scope
 
-* More than one tutor can be added 
-* Interaction between Student and Tutor can be improved by introducing Discussion forum
-* Quiz Facility may enhance this application’s market value
-* Live Class can be added
+
